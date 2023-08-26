@@ -1,4 +1,6 @@
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/rubix/ml.svg?style=flat&colorB=8892BF](https://img.shields.io/github/license/RubixML/RubixML)](https://github.com/RubixML/ML/blob/master/LICENSE.md)
+
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/rubix/ml.svg?style=flat&colorB=8892BF)](https://www.php.net/) [![Latest Stable Version](https://img.shields.io/packagist/v/rubix/ml.svg?style=flat&colorB=orange)](https://packagist.org/packages/rubix/ml) [![Downloads from Packagist](https://img.shields.io/packagist/dt/rubix/ml.svg?style=flat&colorB=red)](https://packagist.org/packages/rubix/ml) [![Code Checks](https://github.com/RubixML/ML/actions/workflows/ci.yml/badge.svg)](https://github.com/RubixML/ML/actions/workflows/ci.yml) [![GitHub](https://img.shields.io/github/license/RubixML/RubixML)](https://github.com/RubixML/ML/blob/master/LICENSE.md)
+
 # seq2seq
 안녕하세요 seq2seq로 영어 프랑스어 간의 번역기를 만드려고 텐서플로로 구현해보았는데요
 텐서플로구조가 define and run 이라 워낙에 복잡해서 check point를 만들어두었습니다.
